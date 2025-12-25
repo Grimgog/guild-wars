@@ -18,4 +18,3 @@ xcopy "%SOURCE%" "%TARGET%" /E /H /C /I /Y
 
 echo.
 echo Fertig! Alle Dateien wurden kopiert.
-pause
